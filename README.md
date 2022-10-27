@@ -17,6 +17,6 @@ A preliminary U-Net network is being tested.
 
 The hyperparameter space is being explored with the help of the great Weights & Biases software.
 
-<!--
-<img src="https://github.com/FiorenSt/AutoSourceID-Classification/blob/main/Plots/Hyper.png" width=100% height=100%> 
--->
+
+Some preliminary results:
+<img src="https://github.com/FiorenSt/AutoSourceID-Segmentation/blob/main/Plots/PreliminaryResults.png" width=100% height=100%> 
