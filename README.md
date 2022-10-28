@@ -22,7 +22,7 @@ Trainining results with three U-net of different sizes:
 <img src="https://github.com/FiorenSt/AutoSourceID-Segmentation/blob/main/Plots/Accuracy_segmentation.png" width=50% height=50%> 
 
 
-Predictions on test set for the best Big U-net:
+Predictions on test set for the best model, Big U-net:
 
 <img src="https://github.com/FiorenSt/AutoSourceID-Segmentation/blob/main/Plots/PreliminaryResults.PNG" width=100% height=100%> 
 
