@@ -17,12 +17,12 @@ A preliminary U-Net network is being tested.
 
 The hyperparameter space is being explored with the help of the great Weights & Biases software.
 
+Trainining results with three U-net of different sizes:
 
-Some preliminary results:
+<img src="https://github.com/FiorenSt/AutoSourceID-Segmentation/blob/main/Plots/Accuracy_segmentation.png" width=50% height=50%> 
 
 
-<img src="https://github.com/FiorenSt/AutoSourceID-Segmentation/blob/main/Plots/Accuracy_segmentation.png" width=80% height=80%> 
-
+Predictions on test set for the best Big U-net:
 
 <img src="https://github.com/FiorenSt/AutoSourceID-Segmentation/blob/main/Plots/PreliminaryResults.PNG" width=100% height=100%> 
 
